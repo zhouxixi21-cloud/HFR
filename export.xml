@@ -1,0 +1,7 @@
+<package>
+        <LOCALE>en_US</LOCALE>
+        <User name="admin" password="">
+	<Task>
+		<Artifact recursive="true" parentPath="HFR Reports/Common/Trail" pattern="LGAPP-TrailBalance"/>
+	</Task>
+</package>
